@@ -6,7 +6,7 @@ const Footer = () => {
         <div className="flex w-full flex-row px-20  items-start uppercase gap-4 justify-between container">
             <div className="flex flex-col  items-start gap-2">
                 <a href="" className="font-extrabold gap-2 capitalize inline-flex text-xl items-center ">
-                    <img src="../../public/logomark.ico" alt="Logo" className='w-8'/>
+                    <img src="../../public/assets/logomark.ico" alt="Logo" className='w-8'/>
                     <span className='block'>SpotLight</span>
                 </a>
             </div>

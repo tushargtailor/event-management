@@ -14,7 +14,7 @@ const Dashboard = () => {
     </div>
     <section className="flex flex-col-reverse lg:flex-row w-full py-8 md:py-16 justify-between gap-8 md:gap-0 container px-10">
       <div className="md:pt-16 " >
-        <img src="../../public/3187910.jpg" alt="" className='w-full ' />
+        <img src="../../public/assets/3187910.jpg" alt="" className='w-full ' />
       </div>
       <div className="flex flex-col gap-4 items-start justify-evenlytext-left py-8 lg:pl-16">
         <p className="text-accent tracking-[1px] font-semibold items-center gap-2 flex">

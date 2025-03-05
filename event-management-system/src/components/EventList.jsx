@@ -4,22 +4,22 @@ import EventCard from './EventCard';
 
 const events = [
   {
-    image: "../../public/art.jpg",
+    image: "../../public/assets/art.jpg",
     name: "Art",
     date: "March 5, 2025",
   },
   {
-    image: "../../public/music.jpg",
+    image: "../../public/assets/music.jpg",
     name: "Melodies of the Ancients",
     date: "April 15, 2025",
   },
   {
-    image: "../../public/game.jpg",
+    image: "../../public/assets/game.jpg",
     name: "Game Night",
     date: "May 22, 2025",
   },
   {
-    image: "../../public/sport.jpg",
+    image: "../../public/assets/sport.jpg",
     name: "Summer Sports Fest",
     date: "May 22, 2025",
   },
